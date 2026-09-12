@@ -25,4 +25,5 @@ def dice_roll():
 number = dice_roll()
 
 print()
+print("the total is:")
 print(number)
